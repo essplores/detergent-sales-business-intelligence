@@ -1,12 +1,3 @@
 # detergent-sales-business-intelligence
-detergent-sales-business-intelligence/
-│
-├── README.md
-├── dashboard/
-│   └── Detergent_PowerBI_Dashboard.pbix
-├── images/
-│   ├── dashboard-overview.png
-│   ├── customer-analysis.png
-│   └── sales-analysis.png
-└── documentation/
-    └── project-notes.md
+Detergent Sales & Customer Analytics | Power BI
+An end-to-end business intelligence project analyzing sales performance, customer behavior, product performance, and growth opportunities for a global detergent company. The dashboard was designed to help management identify performance trends, prioritize commercial opportunities, and make data-driven decisions.
